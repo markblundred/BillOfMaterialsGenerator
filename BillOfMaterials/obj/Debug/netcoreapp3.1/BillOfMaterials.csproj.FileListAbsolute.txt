@@ -1,0 +1,7 @@
+C:\GO\BillOfMaterialsGenerator\BillOfMaterials\obj\Debug\netcoreapp3.1\BillOfMaterials.AssemblyInfoInputs.cache
+C:\GO\BillOfMaterialsGenerator\BillOfMaterials\obj\Debug\netcoreapp3.1\BillOfMaterials.AssemblyInfo.cs
+C:\GO\BillOfMaterialsGenerator\BillOfMaterials\bin\Debug\netcoreapp3.1\BillOfMaterials.deps.json
+C:\GO\BillOfMaterialsGenerator\BillOfMaterials\bin\Debug\netcoreapp3.1\BillOfMaterials.dll
+C:\GO\BillOfMaterialsGenerator\BillOfMaterials\bin\Debug\netcoreapp3.1\BillOfMaterials.pdb
+C:\GO\BillOfMaterialsGenerator\BillOfMaterials\obj\Debug\netcoreapp3.1\BillOfMaterials.dll
+C:\GO\BillOfMaterialsGenerator\BillOfMaterials\obj\Debug\netcoreapp3.1\BillOfMaterials.pdb

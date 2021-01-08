@@ -1,0 +1,24 @@
+﻿•	1 x Rectangle
+o	Position X - 10
+o	Position Y - 10
+o	Width - 30
+o	Height - 40
+•	1 x Square
+o	Position X - 15
+o	Position Y - 30
+o	Width - 35
+•	1 x Ellipse
+o	Position X - 100
+o	Position Y - 150
+o	Horizontal Diameter - 300
+o	Vertical Diameter - 200
+•	1 x Circle
+o	Position X - 1
+o	Position Y - 1
+o	Diameter - 300
+•	1 x Textbox
+o	Position X - 5
+o	Position Y - 5
+o	Width - 200
+o	Height - 100
+o	Text - sample text

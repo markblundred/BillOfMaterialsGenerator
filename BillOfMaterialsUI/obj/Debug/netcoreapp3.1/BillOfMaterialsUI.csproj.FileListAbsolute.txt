@@ -1,0 +1,15 @@
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\obj\Debug\netcoreapp3.1\BillOfMaterialsUI.csprojAssemblyReference.cache
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\obj\Debug\netcoreapp3.1\BillOfMaterialsUI.AssemblyInfoInputs.cache
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\obj\Debug\netcoreapp3.1\BillOfMaterialsUI.AssemblyInfo.cs
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterialsUI.exe
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterialsUI.deps.json
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterialsUI.runtimeconfig.json
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterialsUI.runtimeconfig.dev.json
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterialsUI.dll
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterialsUI.pdb
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterials.dll
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\BillOfMaterials.pdb
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\obj\Debug\netcoreapp3.1\BillOfMaterialsUI.csproj.CopyComplete
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\obj\Debug\netcoreapp3.1\BillOfMaterialsUI.dll
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\obj\Debug\netcoreapp3.1\BillOfMaterialsUI.pdb
+C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\TestInputs\Sample.txt

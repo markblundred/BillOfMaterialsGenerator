@@ -1,0 +1,90 @@
+[ERROR] 16:22 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\k'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterialsUI.Program.Main(String[] args) in C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\Program.cs:line 17
+[ERROR] 16:22 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\g'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterialsUI.Program.Main(String[] args) in C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\Program.cs:line 17
+[INFO] 16:28 - Opening a streamreader at location ./TestInputs/Sample.txt
+[INFO] 16:28 - Converting text file to IEnumerable<IShape>
+[INFO] 16:28 - Creating output text for 5 shapes
+[INFO] 16:29:37 - Opening a streamreader at location ./TestInputs/Sample.txt
+[INFO] 16:29:37 - Converting text file to IEnumerable<IShape>
+[INFO] 16:29:37 - Creating output text for 5 shapes
+[INFO] 16:30:05 - Opening a streamreader at location j
+[ERROR] 16:30:05 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\j'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:30:25 - Opening a streamreader at location k
+[ERROR] 16:30:25 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\k'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:30:54 - Opening a streamreader at location k
+[ERROR] 16:30:54 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\k'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:31:38 - Opening a streamreader at location k
+[ERROR] 16:31:38 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\k'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:31:54 - Opening a streamreader at location k
+[ERROR] 16:31:54 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\k'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:32:06 - Opening a streamreader at location l
+[ERROR] 16:32:06 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\l'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:32:22 - Opening a streamreader at location l
+[ERROR] 16:32:22 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\l'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:32:40 - Opening a streamreader at location l
+[ERROR] 16:32:40 - Could not find file 'C:\GO\BillOfMaterialsGenerator\BillOfMaterialsUI\bin\Debug\netcoreapp3.1\l'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at BillOfMaterials.SummaryWriter.GetSummaryText(String filePath) in C:\GO\BillOfMaterialsGenerator\BillOfMaterials\SummaryWriter.cs:line 16
+[INFO] 16:32:59 - Opening a streamreader at location ./TestInputs/Sample.txt
+[INFO] 16:32:59 - Converting text file to IEnumerable<IShape>
+[INFO] 16:32:59 - Creating output text for 5 shapes
+[INFO] 16:33:26 - Opening a streamreader at location ./TestInputs/Sample.txt
+[INFO] 16:33:26 - Converting text file to IEnumerable<IShape>
+[INFO] 16:33:26 - Creating output text for 5 shapes

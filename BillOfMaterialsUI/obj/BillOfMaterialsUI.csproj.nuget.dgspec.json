@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterialsUI\\BillOfMaterialsUI.csproj": {}
+  },
+  "projects": {
+    "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterialsUI\\BillOfMaterialsUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterialsUI\\BillOfMaterialsUI.csproj",
+        "projectName": "BillOfMaterialsUI",
+        "projectPath": "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterialsUI\\BillOfMaterialsUI.csproj",
+        "packagesPath": "C:\\Users\\MarkBlundred\\.nuget\\packages\\",
+        "outputPath": "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterialsUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MarkBlundred\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://green4.pkgs.visualstudio.com/_packaging/Green_4_Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterials\\BillOfMaterials.csproj": {
+                "projectPath": "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterials\\BillOfMaterials.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterials\\BillOfMaterials.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterials\\BillOfMaterials.csproj",
+        "projectName": "BillOfMaterials",
+        "projectPath": "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterials\\BillOfMaterials.csproj",
+        "packagesPath": "C:\\Users\\MarkBlundred\\.nuget\\packages\\",
+        "outputPath": "C:\\GO\\BillOfMaterialsGenerator\\BillOfMaterials\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MarkBlundred\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://green4.pkgs.visualstudio.com/_packaging/Green_4_Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
